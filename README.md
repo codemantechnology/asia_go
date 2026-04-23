@@ -1,4 +1,4 @@
-![Frame 3](https://github.com/codemantechnology/medicalappui/blob/main/medical.png)
+![Frame 3](https://github.com/codemantechnology/asia_go/blob/main/UI.jpeg)
 
 # asia_go
 
